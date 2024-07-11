@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AskDrP
 - 👀 I’m a human development professor interested in learning how to develop games for adults to explore life and the challenges of being alive.
-- 🌱 I’m currently learning how to be patient and not be totally overwhelmed by the programming options for life outside a structured LMS.  My first computer experience was in 1980, but I've lived in Canvas for too long!
+- 🌱 I’m currently learning how to be patient and not be totally overwhelmed by the programming options for life outside a structured LMS.  I've lived in Canvas and Blackboard for far too long!
 - 💞️ I’m looking to collaborate on simple gaming applications (low stakes interactive app) that I can host on my own.
 - 📫 How to reach me psabbottenz@gmail.com
 - 😄 Pronouns: she/hers/mom
