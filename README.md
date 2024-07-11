@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on simple gaming applications (low stakes interactive app) that I can host on my own.
 - 📫 How to reach me psabbottenz@gmail.com
 - 😄 Pronouns: she/hers/mom
-- ⚡ Fun fact: I build my first computer in 1978 when floppy disks were still floppy, and I remember punch carsds.  The last programming language I ever learned was HTML.  So, here I am as an OG tech mamma, looking for support and guidance from the next gen of tech.
+- ⚡ Fun fact: I build my first computer in 1978 when floppy disks were still floppy, and I remember punch cards.  The last programming language I ever learned was HTML (yeah. I know....).  So, here I am as an OG tech mamma, looking for support and guidance from the next gen of tech wizards.
 
 <!---
 AskDrP/AskDrP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
